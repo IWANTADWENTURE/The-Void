@@ -9775,23 +9775,6 @@
                                                                                                                                                                                         </span></span><span
                                                                                                                                                                                         data-custom-class="body_text">.</span></span></span>
                                                                                                                                                                                 </div>
-                                                                                                                                                                                <style>
-                                                                                                                                                                                    ul {
-                                                                                                                                                                                        list-style-type: square;
-                                                                                                                                                                                    }
-
-                                                                                                                                                                                    ul>li>ul {
-                                                                                                                                                                                        list-style-type: circle;
-                                                                                                                                                                                    }
-
-                                                                                                                                                                                    ul>li>ul>li>ul {
-                                                                                                                                                                                        list-style-type: square;
-                                                                                                                                                                                    }
-
-                                                                                                                                                                                    ol li {
-                                                                                                                                                                                        font-family: Arial;
-                                                                                                                                                                                    }
-                                                                                                                                                                                </style>
                                                                                                                                                                             </div>
                                                                                                                                                                             <div
                                                                                                                                                                                 style="color: #595959;font-size: 14px;font-family: Arial;padding-top:16px;">
